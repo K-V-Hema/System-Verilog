@@ -1,10 +1,10 @@
 # System-Verilog
 
-**Overview**
+**Overview**:
 
 This repository contains a curated collection of SystemVerilog modules, testbenches, and verification examples intended for digital design and hardware verification learning and reference.
 
-**What’s Inside**
+**What’s Inside**:
 
 The repository includes components and examples in the following categories:
 
